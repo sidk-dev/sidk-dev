@@ -1,7 +1,7 @@
 # Hi 👋 I'm Siddharth Kumar  
 ### Computer Science Student | Software Engineer | Full-Stack Developer
 
-🎓 B.Tech Computer Science & Engineering student 
+🎓 B.Tech Computer Science & Engineering student  
 🧠 Good foundation in Data Structures & Algorithms  
 💻 Interested in building scalable, reliable software systems  
 
