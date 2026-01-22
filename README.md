@@ -33,10 +33,10 @@
 - JavaScript  
 - SQL  
 
-### 🎨 Frontend & Mobile
+### 🎨 Frontend
 - HTML, CSS  
 - React  
-- React Native
+- Redux, React Router, React Hook Form
 - Tailwind CSS  
 - Bootstrap  
 
