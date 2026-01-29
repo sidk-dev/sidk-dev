@@ -9,9 +9,9 @@
 
 ## 🚀 What I Build
 
-- 🌐 Full-stack web applications
-- 🔌 Backend services and REST APIs  
-- 🤖 Exploring AI & Machine Learning for practical use cases  
+- 🌐 Full-stack web applications designed for performance and maintainability
+- 🔌 Scalable backend services & RESTful APIs built to grow with demand
+- 🤖 AI & Machine Learning solutions focused on real-world, practical use cases
 
 ---
 
