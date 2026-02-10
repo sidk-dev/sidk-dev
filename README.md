@@ -3,7 +3,7 @@
 
 🎓 B.Tech Computer Science & Engineering student  
 🧠 Good foundation in Data Structures & Algorithms  
-💻 Passionate about building scalable, reliable software systems
+💻 Passionate about building scalable, reliable, cloud-ready software systems
 
 ---
 
