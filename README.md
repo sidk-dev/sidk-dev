@@ -49,7 +49,7 @@
 - MySQL  
 
 ### ☁️ Tools & Platforms
-- AWS (application deployment basics)  
+- AWS (application deployment)  
 - Git & GitHub  
 - VS Code  
 
